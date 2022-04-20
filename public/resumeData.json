@@ -1,0 +1,122 @@
+{
+  "main": {
+    "name": "Spandan",
+    "occupation": "AWS Developer",
+    "description": "I am AWS Certified Solutions Architect Associate and HashiCorp Certified Terraform Associate. I am working in TCS as AWS Developer.",
+    "image": "profilepic.jpg",
+    "bio": "AWS developer with 1+ years of experience. Specialized in AWS cloud, Python programming, and compliance related to GDPR. Skilled with docker, microservices, Rest API and Kubernetes. Terraform certified associate who can work in a multi-cloud environment. Experienced with creating Djangobased backend and React-based front-end. Experienced in CI/CD pipeline, Git, and agile methodology.",
+    "contactmessage": "Connect with me on Linkdin or Github. You can also reach out to me on my phone number or email.",
+    "email": "spandansparse007@gmail.com",
+    "phone": "+91 7549476776",
+    "address": {
+      "city": "Pune",
+      "state": "India"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload": "mycv.pdf",
+    "social": [
+      {
+        "name": "twitter",
+        "url": "#",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "linkedin.com/in/spandanshrivastava-939a8815b/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "github",
+        "url": "https://github.com/Sparsh2309",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "AWS & Terraform Certified",
+    "education": [
+      {
+        "school": "Sunderdeep Engineering College - Delhi/NCR",
+        "degree": "Bachelor of Technology",
+        "graduated": "September 2020",
+        "description": "I have done B.Tech in Computer Science and Engineering WIth 76.5 overall percentage."
+      }
+    ],
+    "work": [
+      {
+        "company": "Tata Consultancy Services, Pune",
+        "title": "AWS Developer",
+        "years": "October 2020 - Present",
+        "description": "Automation of GDPR data deletion using Docker, Python, and Kubernetes.GDPR data deletion request on 6 different platforms"
+      },
+      {
+        "company": "My Next Film, Delhi",
+        "title": "Intern",
+        "years": "January 2020 - July 2020",
+        "description": "Movie script to audio script using TTS library of cloud providers, implemented pitch and volume variation to showcase age and emotions in generated audio. Worked on designing MNF website(UI + Backend) in Django and integrated various scripts to the website. Generated video of the script pdf using pdf highlighter library with characters voice, characters image, and scenes image using Pymupdf, Pymovie, and PIL."
+      }
+    ],
+    "skills": [
+      {
+        "name": "AWS",
+        "level": "90%"
+      },
+      {
+        "name": "Python",
+        "level": "70%"
+      },
+      {
+        "name": "Git",
+        "level": "70%"
+      },
+      {
+        "name": "Terraform",
+        "level": "90%"
+      },
+      {
+        "name": "Django",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "AWS Certified Solutions Architect – Associate",
+        "category": "AWS Cloud",
+        "image": "AWS-Sol.png",
+        "url": "https://www.credly.com/badges/d7ed258d-cd01-4acd-b6b3-08a72835e250"
+      },
+      {
+        "title": "HashiCorp Certified: Terraform Associate",
+        "category": "Infrastructure As Code",
+        "image": "Terra.png",
+        "url": "https://www.credly.com/badges/6c8a6eac-ae99-423d-afa5-a63a28085b8d/public_url"
+      },
+      {
+        "title": "AWS Certified Developer – Associate",
+        "category": "AWS Cloud",
+        "image": "AWS-Grad.png",
+        "url": "https://www.credly.com/badges/d29a1498-d131-4db5-a8b7-615289b01cab/public_url"
+      },
+      {
+        "title": "Python (Basic) Certificate",
+        "category": "Hackerrank",
+        "image": "hackerrank.png",
+        "url": "https://www.hackerrank.com/certificates/e3c19f90e6df"
+      }
+    ]
+  },
+  "testimonials": {
+    "testimonials": [
+      {
+        "text": "100% Customer satisfaction",
+        "user": "Tata Consultancy Services"
+      },
+      {
+        "text": "On the spot award",
+        "user": "Tata Consultancy Services"
+      }
+    ]
+  }
+}
